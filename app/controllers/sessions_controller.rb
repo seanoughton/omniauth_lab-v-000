@@ -2,6 +2,6 @@ class SessionsController < ApplicationController
 
 
   def create
-    byebug
+    #byebug
   end
 end
